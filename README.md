@@ -55,9 +55,11 @@ Click **GESTURES OFF** (or press `G`) and allow camera access, then:
 
 | Key | Action |
 | --- | --- |
+| `V` | Talk to ULTRON (toggle voice) |
 | `G` | Toggle hand gestures |
 | `R` | Reset the view |
 | `+` / `−` | Zoom in / out |
+
 
 ## How it works
 
